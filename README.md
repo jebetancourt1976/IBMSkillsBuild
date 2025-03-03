@@ -1,2 +1,2 @@
 # IBMSkillsBuild
-Repository foCode and Exercises
+Repository for Code and Exercises
